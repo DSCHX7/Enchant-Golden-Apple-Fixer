@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+
+[[mods]]
+modId="egafixer"
+# 改为固定版本号
+version="1.0.0"
+displayName="Enchant Golden Apple Fixer"
+displayURL="https://modrinth.com/user/DSCHX7"
+logoFile="logo.png"
+credits="DSCHX7"
+authors="DSCHX7"
+description='''
+Change your Enchant Golden Apple's Experience To 1.8 Version!
+'''
+
+# 修复依赖项格式
+[[dependencies]]
+modId="forge"
+mandatory=true
+versionRange="[35,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.2]"
+ordering="NONE"
+side="BOTH"

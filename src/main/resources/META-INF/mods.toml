@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[35,)"
+loaderVersion="[37,)"
 license="All rights reserved"
 
 
@@ -20,13 +20,13 @@ Change your Enchant Golden Apple's Experience To 1.8 Version!
 [[dependencies]]
 modId="forge"
 mandatory=true
-versionRange="[35,)"
+versionRange="[37,)"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies]]
 modId="minecraft"
 mandatory=true
-versionRange="[1.16.2]"
+versionRange="[1.17.1]"
 ordering="NONE"
 side="BOTH"
